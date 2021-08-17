@@ -1,7 +1,7 @@
 # To Do List Project
 
 This is a small project made to learn to use Redux.
-The data is not persistent or stored in a database and the code is not factorize.
+The data is not persistent or stored in a database.
 The goal in this project was to learn to use redux.
 
 ## Getting Started with Create React App

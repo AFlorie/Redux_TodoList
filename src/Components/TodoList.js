@@ -1,9 +1,5 @@
 import React from "react";
 import { useSelector } from "react-redux";
-import { useDispatch } from "react-redux";
-import { bindActionCreators } from "redux";
-import styled from "@emotion/styled";
-import { FaTrashAlt } from "react-icons/fa";
 import { FiCheckSquare } from "react-icons/fi";
 
 import List from "./List";

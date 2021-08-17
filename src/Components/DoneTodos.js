@@ -1,6 +1,5 @@
 import React from "react";
 import { useSelector } from "react-redux";
-import styled from "@emotion/styled";
 import { ImCheckboxUnchecked } from "react-icons/im";
 
 import List from "./List";

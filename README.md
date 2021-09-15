@@ -1,31 +1,65 @@
 # To Do List Project
+![](https://img.shields.io/github/last-commit/AFlorie/Redux_TodoList.svg?style=for-the-badge)
+![](https://img.shields.io/website?up_color=green&up_message=online&url=https://fa-todo-list.netlify.app/)
+![](https://res.cloudinary.com/drshresqr/image/upload/v1631698089/Git%20ReadMe%20Project%20Images/todoList_pttebi.png)
+
+# Overview
 
 This is a small project made to learn to use Redux.
 The data is not persistent or stored in a database.
-The goal in this project was to learn to use redux.
+The goal in this project was to learn to use redux so Id did not focus on accessibility, SEO, etc.  
 
-## Getting Started with Create React App
+**Satus**  
+Finished
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Online demo**  
+https://fa-todo-list.netlify.app/
 
-## Available Scripts
+**Architecture**  
+1 pages available : Main Page  
+    
+---
 
-In the project directory, you can run:
+## Packages
 
-### `yarn start`
+- [react-icons](https://react-icons.github.io/react-icons/)
+- [emotion/styled](https://emotion.sh/docs/styled)  
+- [emotion/react](https://www.npmjs.com/package/@emotion/react)
+- [react-redux](https://www.npmjs.com/package/react-redux)
+- [redux](https://www.npmjs.com/package/redux)
+- [redux-thunk](https://www.npmjs.com/package/redux-thunk) 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Installation and usage
+  
+Be sure, you have installed all dependencies and applications to run React project on your computer : [Getting Started with React](https://reactjs.org/docs/getting-started.html).  
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Running the project
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Clone this repository :
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+git clone https://github.com/AFlorie/Redux_TodoList
+cd Redux_TodoList
+```
+
+Install packages :
+
+```
+yarn
+```
+
+When installation is complete, run it :
+
+```
+yarn start
+```
+
+You're done !
+
+
+
+
+
